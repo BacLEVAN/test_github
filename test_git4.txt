@@ -1,0 +1,2 @@
+Thuc hien day code tu branch5 vao branch master
+thuc hien update comit tu local
